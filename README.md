@@ -31,7 +31,7 @@ N/A
 
 1) Connected a local DataBase, which contained a EFT's indvidual stocks information with my Jupyter notebook for my analysis.
 2) Analzyed a single asset in the EFT by using my SQL skills to pull individual stock info into a jupyter dataframe for my analysis.
-3) Joined each individual stocks (data base tables) in the EFT data base into one dataframe in the jupyter notebook to analyze the EFT portolio utilzing the inner JOIN function with SQL.
+3) Joined each individual stocks (database tables) in the EFT database into one dataframe in the jupyter notebook to analyze the EFT portolio utilzing the inner JOIN function with SQL.
 4) I finally deployed the notebook as a web application utilizing the voila library, see screen shot below of web application deployed.
 
   >![voila_screen_shot](./Images/voila_screen_shot.png)
