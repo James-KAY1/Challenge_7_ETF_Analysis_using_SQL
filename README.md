@@ -1,5 +1,5 @@
 # Challenge_7_ETF_Analysis_using_SQL
-This challenge was to showcase our newly acquired SQL skills by creating, analyzing a financial database  and creating a web application from the Jupyter notebook for a fintech ETF.
+This challenge was to showcase our newly acquired SQL skills by creating, analyzing a financial database and creating a web application from the Jupyter notebook for a fintech EFT.
 
 >![sql_image](./Images/sql_image.jpg)
 
@@ -31,7 +31,7 @@ N/A
 
 1) Connected a local DataBase, which contained a EFT's indvidual stocks information with my Jupyter notebook for my analysis.
 2) Analzyed a single asset in the EFT by using my SQL skills to pull individual stock info into a jupyter dataframe for my analysis.
-3) Joined each individual stocks (database tables) in the EFT database into one dataframe in the jupyter notebook to analyze the EFT portolio utilzing the inner JOIN function with SQL.
+3) Joined each individual stocks (database tables) in the EFT database into one dataframe in the jupyter notebook to analyze the EFT portolio utilizing the inner JOIN function with SQL.
 4) I finally deployed the notebook as a web application utilizing the voila library, see screen shot below of web application deployed.
 
   >![voila_screen_shot](./Images/voila_screen_shot.png)
